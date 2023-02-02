@@ -3,7 +3,7 @@
 
 # EN
 
-I clarify this script, I don't know whose car it is, but my idea was to share the script in order to help people looking for it.
+I clarify this script I do not know whose it is but my idea was to share the script to people looking for it.
 
 # ES
 
